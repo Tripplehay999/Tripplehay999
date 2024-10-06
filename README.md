@@ -1,5 +1,5 @@
 Thanks for the update! Here’s the refined<div align="center">
-  <img src="https://github.com/Tripplehay999/Blue and Black Simple Coming Soon Banner.jpg" alt="Welcome to AJ's GitHub" width="100%" />
+  <img src="https://github.com/Tripplehay999/image/blob/main/Pink%20Floral%20Thank%20You%20For%20Visit%20Card.png" alt="Welcome to AJ's GitHub" width="100%" />
 </div>
 
 # 👋 Hi, I'm **Al Hamid Ajibola Afolabi (AJ)**
