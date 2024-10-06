@@ -1,99 +1,124 @@
 <div align="center">
-  <img src="https://github.com/tripplehay999/your-banner-image.png" alt="Welcome to AJ's GitHub" width="800px"/>
+  <img src="https://github.com/AJVibeTribe/your-banner-image.png" alt="Welcome to AJ's GitHub" width="100%" />
 </div>
 
-# Hi, I'm Al Hamid Ajibola Afolabi (AJ) 👋
+# 👋 Hi, I'm **Al Hamid Ajibola Afolabi (AJ)**
 
-**Canadian Full-Stack Developer | Content Creator**  
-*Building my version of the digital world, one step at a time.* 🚀  
-Everything I create, from **coding projects** to **video content**, is built from the ground up—starting with planning and ideation, through to solving real-life problems with code and artistic touches in content creation. Always striving to push the boundaries of what's possible.
+**🚀 Canadian Full-Stack Developer | 🎥 Content Creator | 💡 Tech Enthusiast**
+
+### **🌍 Building my version of the digital world, one step at a time.**
+
+All my projects and content are crafted from the ground up, from ideation and planning to solving real-world problems with code and finalizing content with artistic touches. Each project is an opportunity to create something impactful, and every line of code contributes to my evolving digital landscape.
+
+---
+
+### **🔗 Connect With Me:**
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/tripplehay999?label=Follow%20Me&style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/youtube/channel/subscribers/your_channel_id?label=YouTube&style=social" alt="YouTube Subscribers"/>
-  <img src="https://img.shields.io/github/stars/AJVibeTribe?label=GitHub%20Stars&style=social" alt="GitHub Stars"/>
+  <a href="https://www.linkedin.com/in/alhamidajibolaafolabi" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/0072b1/linkedin.png" alt="LinkedIn" height="40px"/>
+  </a>
+  <a href="https://twitter.com/AJVibeTribe" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" alt="Twitter" height="40px"/>
+  </a>
+  <a href="mailto:tripplehay2007@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" alt="Email" height="40px"/>
+  </a>
 </div>
 
 ---
 
-### 🌟 **About Me:**
-
-- 🖥️ **Full-Stack Developer:** Specializing in **E-Commerce** and **Web Applications**.
-- 🎥 **Content Creator:** I run a YouTube channel, [AJ's Vibe Tribe](https://www.youtube.com/@AJVibeTribe), where I talk tech, coding, and personal growth.
-- 🎓 **Student at Seneca College:** Currently studying **Computer Engineering Technology** & **Computer Programming & Analysis**.
-- 🔧 **Always Learning:** Constantly leveling up my skills in MERN stack, API development, and modern web technologies.
-- 🎨 **Creative Problem-Solver:** I combine technical and creative skills to craft user-friendly and interactive experiences.
-
----
-
-### 🚀 **Skills & Tech Stack:**
+### **🛠️ Tech Stack & Tools:**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,wordpress,mongodb,docker,nginx,git,github,vscode&theme=light" alt="Tech Stack" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" height="50px"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" height="50px"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="50px"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" height="50px"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" height="50px"/>
+  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" height="50px"/>
+  <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" height="50px"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" height="50px"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" height="50px"/>
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" height="50px"/>
+  <img src="https://img.icons8.com/color/48/000000/vs-code.png" alt="VSCode" height="50px"/>
 </div>
 
 ---
 
-### 📈 **Projects:**
+### **🌟 Featured Projects:**
 
-#### 1. **[VyneShopping Nigeria](https://github.com/AJVibeTribe/VyneShopping)**
-   - A custom-built e-commerce platform with interactive features like **real-time stock updates** and an **AJAX-powered cart**.
-   - **Tech Stack:** WordPress, WooCommerce, HTML, CSS, JavaScript.
-   - **Key Features:** Mobile-responsive design, SEO optimization, secure payment integration.
+#### **1. [VyneShopping Nigeria](https://github.com/AJVibeTribe/VyneShopping)**
+A fully custom-built **e-commerce platform** designed with user experience and performance in mind.
 
-#### 2. **[Chinese Whalers](https://github.com/AJVibeTribe/chinesewhalers)**
-   - A cryptocurrency website built with the **MERN stack** that features real-time financial data and a dynamic dashboard.
-   - **Tech Stack:** MongoDB, Express, React, Node.js.
-   - **Key Features:** Interactive charts, mobile responsiveness, and live cryptocurrency updates.
+- **Key Features:** Real-time stock updates, AJAX-powered cart, responsive design, and secure payments.
+- **Tech Stack:** WordPress, WooCommerce, JavaScript, CSS.
+- **Unique Touch:** Custom filters and search autocomplete for smoother shopping experiences.
 
-#### 3. **[Redeemed Christian Church of God](https://github.com/AJVibeTribe/RCCG)**
-   - Developed a fully functional website for the church, focusing on user-friendly design and donation integration.
-   - **Tech Stack:** WordPress, PHP, HTML, CSS.
-   - **Key Features:** Event calendar, donation integration, and blog.
+#### **2. [Chinese Whalers](https://github.com/AJVibeTribe/chinesewhalers)**
+A **cryptocurrency platform** with real-time financial data and an interactive dashboard.
+
+- **Key Features:** Dynamic charts, mobile responsiveness, and real-time updates.
+- **Tech Stack:** MongoDB, Express, React, Node.js (MERN stack).
+- **Unique Touch:** Real-time market data visualizations to keep users informed.
+
+#### **3. [RCCG Website](https://github.com/AJVibeTribe/RCCG)**
+A church website designed for smooth navigation and functionality, featuring an events calendar and donation system.
+
+- **Key Features:** Donation integration, blog section, event calendar.
+- **Tech Stack:** WordPress, PHP, CSS.
+- **Unique Touch:** Tailored for simplicity and ease of use.
 
 ---
 
-### 🏆 **Achievements & Certifications:**
+### **🏆 Achievements:**
 
 - **ALX Coding Foundations Certificate**
 - **Coursera Certificate**
 - **CPR & First Aid Certification**
 - **Smart Serve Certification**
-- **Jenga Award**
-- **Most Organized Bookshelf Award** 🏅 _(Yes, seriously!)_
+- **Most Organized Bookshelf Award** 😎 _(Yes, that’s real!)_
 
 ---
 
-### 🎥 **AJ's Vibe Tribe YouTube Channel:**
-
-Join me on [AJ's Vibe Tribe](https://www.youtube.com/@AJVibeTribe) for tech tutorials, coding insights, and personal growth content! Subscribe and be part of the journey as we explore the world of web development together.
-
----
-
-### 💡 **Fun Facts:**
-
-- 🌍 **Global Citizen:** I’ve lived and worked in **Nigeria**, **Canada**, and the **UK**.
-- 🧠 **Lifelong Learner:** Coding since the age of 9. Always curious, always learning.
-- 🎮 **Gamer at Heart:** When I’m not coding, I’m usually gaming or watching esports tournaments.
-
----
-
-### 📫 **Let’s Connect:**
+### **📈 GitHub Stats:**
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abdul-afolabi">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/jiggythedev">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:tripplehay2007@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AJVibeTribe&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJVibeTribe&layout=compact&theme=radical" />
 </div>
 
 ---
 
-💻 **“Building the digital world, one line of code at a time.”**
+### **🎥 Check Out My YouTube Channel:**
+
+Over at [AJ's Vibe Tribe](https://www.youtube.com/@AJVibeTribe), I share tech tutorials, coding tips, and content on personal growth. Hit **Subscribe** and join me on the journey!
 
 ---
+
+### **💡 Fun Facts:**
+
+- 🌍 I’ve lived in **Nigeria**, **Canada**, and the **UK**.
+- 💻 Coding since age 9!
+- 🎮 When I’m not coding, you’ll find me gaming or watching esports.
+
+---
+
+### **🔗 Let's Collaborate:**
+
+I'm always open to new projects and collaborations. Feel free to reach out if you have something in mind or just want to connect!
+
+---
+
+<div align="center">
+  <img src="https://github.com/AJVibeTribe/cool-footer-image.png" alt="Thanks for visiting!" width="100%" />
+</div>
+
+---
+
+### **Quote I Live By:**
+
+_"Building the digital world, one line of code at a time."_
+
+---
+
