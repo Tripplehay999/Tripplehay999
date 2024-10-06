@@ -2,7 +2,7 @@ Here's an updated version of your GitHub README, incorporating your new descript
 
 ---
 
-# Hi, I'm Al Hamid Ajibola Afolabi (AJ) 👋
+# Hi, I'm Al Hamid AJ Afolabi (AJ) 👋
 
 **Canadian Full-Stack Developer | Content Creator**  
 I'm building my version of the digital world one step at a time. All my coding projects are built from the ground up, from **planning and designing** to **solving real-life problems** with code. As a content creator, I approach my video content the same way, from **ideation and planning** to **adding artistic touches** in the final stages.
@@ -72,6 +72,7 @@ Developed a cryptocurrency website focusing on financial analysis and real-time 
 ---
 
 💻 **“Building my digital world, one line of code at a time.”**
+💻 **“Code is like humor. When you have to explain it, it’s bad.”**
 
 ---
 
