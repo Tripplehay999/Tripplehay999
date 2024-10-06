@@ -71,5 +71,3 @@ Developed a cryptocurrency website focusing on financial analysis and real-time 
 💻 **“Code is like humor. When you have to explain it, it’s bad.”**
 
 ---
-
-This version highlights both your development work and content creation in a cohesive way. Let me know if you'd like any changes!
