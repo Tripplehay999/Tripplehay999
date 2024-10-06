@@ -15,10 +15,10 @@ All my projects and content are crafted from the ground up, from ideation and pl
 ### **🔗 Connect With Me:**
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/alhamidajibolaafolabi" target="_blank">
+  <a href="https://www.linkedin.com/in/abdul-afolabi" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0072b1/linkedin.png" alt="LinkedIn" height="40px"/>
   </a>
-  <a href="https://twitter.com/AJVibeTribe" target="_blank">
+  <a href="https://twitter.com/jiggythedev" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" alt="Twitter" height="40px"/>
   </a>
   <a href="mailto:tripplehay2007@gmail.com">
@@ -84,8 +84,8 @@ A church website designed for smooth navigation and functionality, featuring an 
 ### **📈 GitHub Stats:**
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AJVibeTribe&show_icons=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJVibeTribe&layout=compact&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tripplehay999&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripplehay999&layout=compact&theme=radical" />
 </div>
 
 ---
@@ -111,7 +111,7 @@ I'm always open to new projects and collaborations. Feel free to reach out if yo
 ---
 
 <div align="center">
-  <img src="https://github.com/AJVibeTribe/cool-footer-image.png" alt="Thanks for visiting!" width="100%" />
+  <img src="https://github.com/tripplehay999/cool-footer-image.png" alt="Thanks for visiting!" width="100%" />
 </div>
 
 ---
