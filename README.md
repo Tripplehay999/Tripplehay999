@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://github.com/Tripplehay999/image/blob/main/Blue%20and%20Black%20Simple%20Coming%20Soon%20Banner.jpg)" alt="Welcome to AJ's GitHub" width="100%" />
+Thanks for the update! Here’s the refined<div align="center">
+  <img src="https://github.com/tripplehay999/Blue and Black Simple Coming Soon Banner.jpg" alt="Welcome to AJ's GitHub" width="100%" />
 </div>
 
 # 👋 Hi, I'm **Al Hamid Ajibola Afolabi (AJ)**
@@ -18,7 +18,7 @@ All my projects and content are crafted from the ground up, from ideation and pl
   <a href="https://www.linkedin.com/in/abdul-afolabi" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0072b1/linkedin.png" alt="LinkedIn" height="40px"/>
   </a>
-  <a href="https://twitter.com/jiggythedev" target="_blank">
+  <a href="https://twitter.com/JiggyTheDev" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" alt="Twitter" height="40px"/>
   </a>
   <a href="mailto:tripplehay2007@gmail.com">
@@ -40,29 +40,29 @@ All my projects and content are crafted from the ground up, from ideation and pl
   <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" height="50px"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" height="50px"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" height="50px"/>
-  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" height="50px"/>
-  <img src="https://img.icons8.com/color/48/000000/vs-code.png" alt="VSCode" height="50px"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" height="50px"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" height="50px"/>
 </div>
 
 ---
 
 ### **🌟 Featured Projects:**
 
-#### **1. [VyneShopping Nigeria](https://github.com/AJVibeTribe/VyneShopping)**
+#### **1. [VyneShopping Nigeria](https://github.com/tripplehay999/VyneShopping)**
 A fully custom-built **e-commerce platform** designed with user experience and performance in mind.
 
 - **Key Features:** Real-time stock updates, AJAX-powered cart, responsive design, and secure payments.
 - **Tech Stack:** WordPress, WooCommerce, JavaScript, CSS.
 - **Unique Touch:** Custom filters and search autocomplete for smoother shopping experiences.
 
-#### **2. [Chinese Whalers](https://github.com/AJVibeTribe/chinesewhalers)**
+#### **2. [Chinese Whalers](https://github.com/tripplehay999/chinesewhalers)**
 A **cryptocurrency platform** with real-time financial data and an interactive dashboard.
 
 - **Key Features:** Dynamic charts, mobile responsiveness, and real-time updates.
 - **Tech Stack:** MongoDB, Express, React, Node.js (MERN stack).
 - **Unique Touch:** Real-time market data visualizations to keep users informed.
 
-#### **3. [RCCG Website](https://github.com/AJVibeTribe/RCCG)**
+#### **3. [RCCG Website](https://github.com/tripplehay999/RCCG)**
 A church website designed for smooth navigation and functionality, featuring an events calendar and donation system.
 
 - **Key Features:** Donation integration, blog section, event calendar.
@@ -111,14 +111,5 @@ I'm always open to new projects and collaborations. Feel free to reach out if yo
 ---
 
 <div align="center">
-  <img src="https://github.com/tripplehay999/cool-footer-image.png" alt="Thanks for visiting!" width="100%" />
+  <img src="https://github.com/tripplehay999/Pink Floral Thank You For Visit Card.png" alt="Thanks for visiting!" width="100%" />
 </div>
-
----
-
-### **Quote I Live By:**
-
-_"Building the digital world, one line of code at a time."_
-
----
-
