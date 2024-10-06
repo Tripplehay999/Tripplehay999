@@ -1,7 +1,3 @@
-Here's an updated version of your GitHub README, incorporating your new description:
-
----
-
 # Hi, I'm Al Hamid AJ Afolabi (AJ) 👋
 
 **Canadian Full-Stack Developer | Content Creator**  
