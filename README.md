@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/AJVibeTribe/your-banner-image.png" alt="Welcome to AJ's GitHub" width="100%" />
+  <img src="https://github.com/Tripplehay999/image/blob/main/Blue%20and%20Black%20Simple%20Coming%20Soon%20Banner.jpg)" alt="Welcome to AJ's GitHub" width="100%" />
 </div>
 
 # 👋 Hi, I'm **Al Hamid Ajibola Afolabi (AJ)**
