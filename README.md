@@ -1,18 +1,18 @@
-Thanks for the update! Here’s the refined<div align="center">
+<div align="center">
   <img src="https://github.com/Tripplehay999/image/blob/main/Blue%20and%20Black%20Simple%20Coming%20Soon%20Banner.jpg" alt="Welcome to AJ's GitHub" width="100%" />
 </div>
 
-# 👋 Hi, I'm **Al Hamid Ajibola Afolabi (AJ)**
+# 👋 Hi, I'm **AJ Afolabi**
 
-**🚀 Canadian Full-Stack Developer | 🎥 Content Creator | 💡 Tech Enthusiast**
+**Full-Stack Developer | Web Systems & E-Commerce Specialist**
 
-### **🌍 Building my version of the digital world, one step at a time.**
+### Building clean, scalable web solutions for startups and growing businesses.
 
-All my projects and content are crafted from the ground up, from ideation and planning to solving real-world problems with code and finalizing content with artistic touches. Each project is an opportunity to create something impactful, and every line of code contributes to my evolving digital landscape.
+I design and develop modern web applications from the ground up, focusing on clarity, performance, and real-world usability. My work spans business websites, e-commerce platforms, dashboards, and custom systems, with an emphasis on maintainable code and thoughtful user experience.
 
 ---
 
-### **🔗 Connect With Me:**
+## 🔗 Professional Links
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abdul-afolabi" target="_blank">
@@ -28,60 +28,83 @@ All my projects and content are crafted from the ground up, from ideation and pl
 
 ---
 
-### **🛠️ Tech Stack & Tools:**
+## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" height="50px"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" height="50px"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="50px"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" height="50px"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" height="50px"/>
-  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" height="50px"/>
-  <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" height="50px"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" height="50px"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" height="50px"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" height="50px"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" height="50px"/>
+  <img src="https://img.icons8.com/color/48/html-5.png" height="50"/>
+  <img src="https://img.icons8.com/color/48/css3.png" height="50"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" height="50"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" height="50"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" height="50"/>
+  <img src="https://img.icons8.com/color/48/php.png" height="50"/>
+  <img src="https://img.icons8.com/color/48/wordpress.png" height="50"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" height="50"/>
+  <img src="https://img.icons8.com/color/48/docker.png" height="50"/>
+  <img src="https://img.icons8.com/ios-filled/50/github.png" height="50"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="50"/>
 </div>
 
 ---
 
-### **🌟 Featured Projects:**
+## 📌 Selected Projects
 
-#### **1. [VyneShopping Nigeria](https://github.com/tripplehay999/VyneShopping)**
-A fully custom-built **e-commerce platform** designed with user experience and performance in mind.
+### **VyneShopping Nigeria**
+**Custom E-Commerce Platform**
 
-- **Key Features:** Real-time stock updates, AJAX-powered cart, responsive design, and secure payments.
-- **Tech Stack:** WordPress, WooCommerce, JavaScript, CSS.
-- **Unique Touch:** Custom filters and search autocomplete for smoother shopping experiences.
+- Real-time stock management
+- AJAX-powered cart and filtering
+- Optimized for performance and mobile
+- Secure checkout flow
 
-#### **2. [Chinese Whalers](https://github.com/tripplehay999/chinesewhalers)**
-A **cryptocurrency platform** with real-time financial data and an interactive dashboard.
-
-- **Key Features:** Dynamic charts, mobile responsiveness, and real-time updates.
-- **Tech Stack:** MongoDB, Express, React, Node.js (MERN stack).
-- **Unique Touch:** Real-time market data visualizations to keep users informed.
-
-#### **3. [RCCG Website](https://github.com/tripplehay999/RCCG)**
-A church website designed for smooth navigation and functionality, featuring an events calendar and donation system.
-
-- **Key Features:** Donation integration, blog section, event calendar.
-- **Tech Stack:** WordPress, PHP, CSS.
-- **Unique Touch:** Tailored for simplicity and ease of use.
+**Stack:** WordPress, WooCommerce, JavaScript, PHP, CSS  
+🔗 https://github.com/tripplehay999/VyneShopping
 
 ---
 
-### **🏆 Achievements:**
+### **Chinese Whalers**
+**Cryptocurrency Dashboard Platform**
 
-- **ALX Coding Foundations Certificate**
-- **Coursera Certificate**
-- **CPR & First Aid Certification**
-- **Smart Serve Certification**
-- **Most Organized Bookshelf Award** 😎 _(Yes, that’s real!)_
+- Real-time market data
+- Interactive charts and analytics
+- Responsive dashboard interface
+
+**Stack:** MongoDB, Express, React, Node.js  
+🔗 https://github.com/tripplehay999/chinesewhalers
 
 ---
 
-### **📈 GitHub Stats:**
+### **RCCG Website**
+**Content-Driven Organization Website**
+
+- Events calendar and donation system
+- Admin-friendly CMS structure
+- Clean navigation and accessibility focus
+
+**Stack:** WordPress, PHP, CSS  
+🔗 https://github.com/tripplehay999/RCCG
+
+---
+
+## 🧩 What I Typically Build
+
+- Business & startup websites
+- E-commerce platforms
+- Admin dashboards & internal tools
+- API-driven web applications
+- WordPress systems with custom logic
+
+---
+
+## 🎓 Certifications
+
+- ALX Coding Foundations
+- Coursera Professional Certificates
+- CPR & First Aid
+- Smart Serve
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tripplehay999&show_icons=true&theme=radical" />
@@ -90,25 +113,10 @@ A church website designed for smooth navigation and functionality, featuring an 
 
 ---
 
-### **🎥 Check Out My YouTube Channel:**
+## 🤝 Open to Work
 
-Over at [AJ's Vibe Tribe](https://www.youtube.com/@AJVibeTribe), I share tech tutorials, coding tips, and content on personal growth. Hit **Subscribe** and join me on the journey!
-
----
-
-### **💡 Fun Facts:**
-
-- 🌍 I’ve lived in **Nigeria**, **Canada**, and the **UK**.
-- 💻 Coding since age 9!
-- 🎮 When I’m not coding, you’ll find me gaming or watching esports.
-
----
-
-### **🔗 Let's Collaborate:**
-
-I'm always open to new projects and collaborations. Feel free to reach out if you have something in mind or just want to connect!
-
----
+I’m available for freelance projects, contract work, and collaborations.  
+If you’re building something and need a reliable developer, feel free to reach out.
 
 <div align="center">
   <img src="https://github.com/Tripplehay999/image/blob/main/Pink%20Floral%20Thank%20You%20For%20Visit%20Card.png" alt="Thanks for visiting!" width="100%" />
