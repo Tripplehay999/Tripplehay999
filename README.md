@@ -2,7 +2,7 @@
   <img src="https://github.com/Tripplehay999/image/blob/main/Blue%20and%20Black%20Simple%20Coming%20Soon%20Banner.jpg" alt="Welcome to AJ's GitHub" width="100%" />
 </div>
 
-# 👋 Hi, I'm **AJ Afolabi**
+# 👋 Hi, I'm **AJ**
 
 **Full-Stack Developer | Web Systems & E-Commerce Specialist**
 
